@@ -2,8 +2,8 @@
 
 متجر أزياء بالعربي والإنجليزي، فيه راك ملابس تفاعلي وغرفة قياس ولوحة تحكم.
 
-- **المتجر (للزبائن):** https://aseel-shamia.github.io/nool-store1/
-- **لوحة التحكم (للأدمن):** https://aseel-shamia.github.io/nool-store1/admin.html
+- **المتجر (للزبائن):**https://aseel-shamia.github.io/nool1/
+- **لوحة التحكم (للأدمن):** https://aseel-shamia.github.io/nool1/admin.html
 
 ## الملفات
 
